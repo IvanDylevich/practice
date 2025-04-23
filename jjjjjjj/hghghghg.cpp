@@ -14,6 +14,8 @@ int main()
 			S += i;
 		}
 	}
+	cout << a << endl;
+	cout << endl;
 	cout << "сумма всех чисел кратных k = " << S << endl;
 	return 0;
 }
